@@ -7,10 +7,10 @@
     <Copyright>Library with Commons Utilities for .NET Rest APIs</Copyright>
     <Company>IH</Company>
     <Authors>Irineu Hübner (irineush@gmail.com)</Authors>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="com.ih.util.custom.errors" Version="1.0.0" />
+    <PackageReference Include="com-ih-util-custom-errors" Version="1.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.Abstractions" Version="2.2.0" />
   </ItemGroup>
   <ItemGroup>
